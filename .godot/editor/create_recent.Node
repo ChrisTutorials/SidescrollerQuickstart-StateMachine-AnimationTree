@@ -1,8 +1,11 @@
+Label
+Node
+AnimationTree
 AnimationPlayer
+Sprite2D
 TextureRect
 Control
 ColorRect
-AnimationTree
 AnimatedSprite2D
 RemoteTransform2D
 Camera2D

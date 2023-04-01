@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="SidescrollerQuickstart - Attacks and Enemies"
+config/name="SidescrollerQuickstart - State Machine & AnimationTree"
 run/main_scene="res://Levels/test_level.tscn"
 config/features=PackedStringArray("4.0", "Mobile")
 config/icon="res://icon.svg"
@@ -49,7 +49,7 @@ jump={
 
 [physics]
 
-2d/default_gravity=490.0
+2d/default_gravity=245.0
 
 [rendering]
 

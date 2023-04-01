@@ -1,2 +1,9 @@
 res://Character/player.tscn
-res://README.md
+res://Levels/test_level.tscn
+res://Character/player.gd
+res://Character/CharacterStateMachine.gd
+res://Character/State.gd
+res://Character/GroundState.gd
+res://Character/AirState.gd
+res://Character/StateDebugLabel.gd
+res://Character/LandingState.gd
