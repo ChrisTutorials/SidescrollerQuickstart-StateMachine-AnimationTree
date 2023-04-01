@@ -5,3 +5,4 @@ Tutorial project to demo how to setup a sidescrolling character with animations,
 A - Move Left
 D - Move Right
 Space - Jump
+
